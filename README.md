@@ -2,14 +2,13 @@
 A web application for simple task management.
 
 ## How to run the application
-- Backend: open terminal and navigate to directory of TaskManagementApi folder then enter: dotnet run TaskManagementApi.csproj
-- frontend: open terminal and navigate to directory of TaskManagementApp folder then enter: npm install . After all node modules been installed
-enter: ng serve
-- open Chrome, go to url: http://localhost:4500/  (development mode) or http://localhost:6001/  (release mode)
+- Backend: Open terminal and navigate to the directory of TaskManagementApi folder then enter: dotnet run TaskManagementApi.csproj
+- Frontend: Open terminal and navigate to the directory of TaskManagementApp folder then enter: npm install . After all node modules have been installed enter: ng serve
+- Open Chrome and navigate to url: http://localhost:4500/  (development mode) or http://localhost:6001/  (release mode)
 
 ## How to run the tests
-- Unit & integration tests: Open terminal and navigate to directory of TaskManagementApp folder then enter: ng test
-- E2E tests: Open terminal and navigate to directory of TaskManagementApp folder then enter: ng run TaskManagementApp:cypress-open
+- Unit & integration tests: Open terminal and navigate to the directory of TaskManagementApp folder then enter: ng test
+- E2E tests: Open terminal and navigate to the directory of TaskManagementApp folder then enter: ng run TaskManagementApp:cypress-open
 
 ## Ports
 - Backend: development port 1994 (launchSettings.json)   release port 6001
