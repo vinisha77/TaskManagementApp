@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "TaskManagementApi": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Qingqing Dai\\Documents\\IncipientusApp\\TaskManagementApp\\TaskManagementApi",
+      "launchUrl": "api/values",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:1994"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:24422",
+      "sslPort": 0
+    }
+  }
+}

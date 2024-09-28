@@ -1,0 +1,62 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@TaskController_HostAddress = http://localhost:1994/api/task
+@UserController_HostAddress = http://localhost:1994/api/user
+
+GET {{TaskController_HostAddress}}/
+Accept: application/json
+
+###
+GET {{TaskController_HostAddress}}/2
+Accept: application/json
+
+###
+POST {{TaskController_HostAddress}}/
+Accept: text/plain
+Content-Type: application/json
+
+{
+  "title": "Test",
+  "description": "Test",
+  "createdDate": "Test",
+  "dueDate": "Test",
+  "isCompleted": false,
+  "user": "Test"
+}
+
+###
+DELETE {{TaskController_HostAddress}}/8
+Accept: text/plain
+
+###
+GET {{UserController_HostAddress}}/
+Accept: application/json
+
+###
+GET {{UserController_HostAddress}}/5
+Accept: application/json
+
+###
+POST {{UserController_HostAddress}}/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "username": "TestUser",
+  "password": "TestUser",
+  "email": "TestUser@incipientus.com"
+}
+
+###
+PUT {{UserController_HostAddress}}/5
+Accept: text/plain
+Content-Type: application/json
+
+{
+  "username": "Riyad",
+  "password": "999999",
+  "email": "riyad.uvalic@incipientus.com"
+}
+
+###
+DELETE {{UserController_HostAddress}}/8
+Accept: text/plain

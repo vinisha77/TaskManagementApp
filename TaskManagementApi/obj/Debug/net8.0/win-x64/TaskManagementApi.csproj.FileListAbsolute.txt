@@ -1,0 +1,139 @@
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.AssemblyReference.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.AssemblyInfoInputs.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.AssemblyInfo.cs
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\appsettings.Development.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\appsettings.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.exe
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.deps.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.runtimeconfig.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.pdb
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\CsvHelper.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.Data.Sqlite.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.OpenApi.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.core.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\System.Linq.Async.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\e_sqlite3.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.build.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.development.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.Incipientus_TM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.build.Incipientus_TM.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.Incipientus_TM.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.buildTransitive.Incipientus_TM.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.pack.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\scopedcss\bundle\Incipientus_TM.styles.css
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.CopyComplete
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\refint\Incipientus_TM.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.pdb
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.genruntimeconfig.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApi\obj\Debug\net8.0\win-x64\ref\Incipientus_TM.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\appsettings.Development.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\appsettings.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.exe
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.deps.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.runtimeconfig.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.pdb
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\CsvHelper.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.Data.Sqlite.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.OpenApi.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.core.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\System.Linq.Async.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\e_sqlite3.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.AssemblyReference.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.AssemblyInfoInputs.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.AssemblyInfo.cs
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.sourcelink.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.build.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.development.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.Incipientus_TM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.build.Incipientus_TM.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.Incipientus_TM.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.buildTransitive.Incipientus_TM.props
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.pack.json
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\scopedcss\bundle\Incipientus_TM.styles.css
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.CopyComplete
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\refint\Incipientus_TM.dll
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.pdb
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.genruntimeconfig.cache
+C:\Users\Qingqing Dai\Documents\IncipientusApp\TaskManagementApp\TaskManagementApi\obj\Debug\net8.0\win-x64\ref\Incipientus_TM.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\appsettings.Development.json
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\appsettings.json
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.exe
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.deps.json
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.runtimeconfig.json
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Incipientus_TM.pdb
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\CsvHelper.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.Data.Sqlite.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Microsoft.OpenApi.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.core.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\System.Linq.Async.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\Build\AnyCPU\Debug\net8.0\win-x64\e_sqlite3.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.AssemblyReference.cache
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.AssemblyInfoInputs.cache
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.AssemblyInfo.cs
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.build.json
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.development.json
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.Incipientus_TM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.build.Incipientus_TM.props
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.Incipientus_TM.props
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets\msbuild.buildTransitive.Incipientus_TM.props
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\staticwebassets.pack.json
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\scopedcss\bundle\Incipientus_TM.styles.css
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskMana.85ED9B13.Up2Date
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\refint\Incipientus_TM.dll
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\Incipientus_TM.pdb
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\TaskManagementApi.genruntimeconfig.cache
+C:\Users\TommyAndersson\Downloads\TaskManagementApp-main\TaskManagementApi\obj\Debug\net8.0\win-x64\ref\Incipientus_TM.dll

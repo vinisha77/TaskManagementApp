@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Incipientus_TM.props" />
+</Project>

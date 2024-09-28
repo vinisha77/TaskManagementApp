@@ -1,0 +1,167 @@
+/* global styles */
+
+/* @import "~@angular/material/prebuilt-themes/indigo-pink.css"; */
+/* @import 'https://fonts.googleapis.com/icon?family=Material+Icons'; */
+/* @import 'material-icons/iconfont/material-icons.css'; */
+
+body {
+    margin: 0;
+    font-size: 13px;
+}
+
+.mat-icon {
+    font-size: 28px;
+    margin-bottom: 2px;
+    /* justify-content: center; */
+}
+
+.success-snackbar {
+    background-color: darkseagreen;
+}
+
+.info-snackbar {
+    background-color: #1b2d94;
+}
+
+.error-snackbar {
+    background-color: darkorange;
+}
+
+.my-select-overlay {
+    min-width: fit-content !important;
+}
+
+
+.mat-simple-snackbar {
+    display: flex;
+    font-size: 22px !important;
+    min-height: 40px !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+/* component styles */
+.first_row {
+    display: flex;
+    gap: 1rem;
+    padding: 0.4rem;
+    padding-bottom: 0;
+    align-items: center;
+}
+
+.rangeBreak_container {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.second_row {
+    display: flex;
+    gap: 1rem;
+    padding: 0.4rem;
+}
+
+.arrows_container {
+    margin-left: auto;
+    display: flex;
+    padding: 0.5rem;
+    max-height: 2rem;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+button:hover,
+.btn:hover {
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    transform: scale(1.1);
+}
+
+.btn {
+    background-color: #3f51b5;
+    border-radius: 0.5vw;
+    min-width: fit-content;
+    color: rgb(238, 232, 232);
+    text-align: center;
+    max-height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.newTaskInput,
+.newUserInput {
+    width: 150px;
+    border: 1px solid #11131f;
+    border-radius: 0.5vw;
+    padding: 3px;
+}
+
+mat-select:hover {
+    cursor: pointer;
+}
+
+mat-option {
+    font-size: 0.8rem;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.disabledColor {
+    color: lightgray;
+}
+
+.icon-display {
+    transform: scale(1);
+}
+
+tr,
+th,
+td {
+    border: 1px solid rgb(76, 77, 80);
+    padding: 0.5rem;
+}
+
+button {
+    background-color: #3f51b5;
+    border-radius: 0.5vw;
+    min-width: fit-content;
+    color: rgb(238, 232, 232);
+    text-align: center;
+    max-height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+button:hover {
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    transform: scale(1.1);
+}
+
+.main-container {
+    height: 80vh;
+    overflow: auto;
+}

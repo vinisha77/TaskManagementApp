@@ -1,0 +1,91 @@
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #3f51b5; color: white;">
+  <div class="container-fluid">
+    <h2 class="navbar-brand" href="#" style="color: antiquewhite;">Incipientus Task Management System</h2>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </div>
+</nav>
+<div style="height: 84vh;">
+  <div class="main-container" style="margin: 10px;display: flex; flex-direction: column;gap:10px;">
+    <h3>Tasks</h3>
+    <table>
+      <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Created Date</th>
+        <th>Due Date</th>
+        <th>Is completed?</th>
+        <th>Assigned User</th>
+        <th>Delete</th>
+      </tr>
+      <tr *ngFor="let task of tasks">
+        <td>{{task.title}}</td>
+        <td>{{task.description}}</td>
+        <td>{{task.createdDate}}</td>
+        <td>{{task.dueDate}}</td>
+        <td><mat-select class="currentTaskStatus" [(ngModel)]="task.isCompleted"
+            title="{{task.isCompleted? 'Unmark completed': 'Mark completed'}}" (selectionChange)="updateTask(task)">
+            <mat-option *ngFor="let isCompleted of [true, false]" [value]="isCompleted">
+              <span class="mat-option-text" id="viewtext"> {{isCompleted? "Yes" : "No"}} </span>
+            </mat-option>
+          </mat-select></td>
+        <td><mat-select class="currentTaskUser" [(ngModel)]="task.user" title="Assign the task to a user"
+            (selectionChange)="updateTask(task)">
+            <mat-option *ngFor="let user of users" [value]="user.username">
+              <span class="mat-option-text" id="viewtext"> {{user.username}} </span>
+            </mat-option>
+          </mat-select></td>
+
+        <td><button (click)="deleteTask(task.id)">Delete</button></td>
+      </tr>
+    </table>
+    <div>
+      <h4>Add Task</h4>
+      <div style="display: flex;gap:10px">
+        Title <input class="newTaskInput" type="text" [(ngModel)]="title" />
+        Description <input class="newTaskInput" type="text" [(ngModel)]="description" />
+        Due Date <input class="newTaskInput" type="date" [(ngModel)]="dueDate" />
+        <mat-label>Assign a user</mat-label>
+        <mat-select class="newTaskInput" [(ngModel)]="assignedUser" title="Assign the task to a user">
+          <mat-option *ngFor="let user of users" [value]="user.username">
+            <span class="mat-option-text" id="viewtext"> {{user.username}} </span>
+          </mat-option>
+        </mat-select>
+        <button (click)="addTask()">Add a task</button>
+      </div>
+    </div>
+    <h3>Users</h3>
+    <table>
+      <tr>
+        <th>Id</th>
+        <th>User Name</th>
+        <th>Email</th>
+        <th>Delete</th>
+      </tr>
+      <tr *ngFor="let user of users">
+        <td>{{user.id}}</td>
+        <td>{{user.username}}</td>
+        <td>{{user.email}}</td>
+        <td><button (click)="deleteUser(user.id)">Delete</button></td>
+      </tr>
+    </table>
+    <div>
+      <h4>Add User</h4>
+      <div style="display: flex;gap:10px">
+        User Name <input class="newUserInput" type="text" [(ngModel)]="userName" />
+        Password <input class="newUserInput" type="password" [(ngModel)]="password" />
+        Email <input class="newUserInput" type="text" [(ngModel)]="email" />
+        <button (click)="addUser()">Add a user</button>
+      </div>
+    </div>
+    <div class="bottom-nav-content"
+      style="display: flex;justify-content: center; align-items: center;height: 4vh;position: fixed; bottom: 0;width: 100vw;">
+      <a href="https://www.incipientus.com/" title="Open https://www.incipientus.com/ in a new tab" target="_new"><img
+          src="../assets/images/logo.png" style="height: 4vh;" /></a>
+      <span style="font-size:9px;">© {{ currentYear }} Incipientus Ultrasound Flow Technologies AB All rights
+        reserved.</span>
+    </div>
+  </div>
+  <router-outlet />
