@@ -1,6 +1,11 @@
 # TaskManagementApp
 A web application for simple task management.
 
+## How to fork the repository
+1. Go to the repository on GitHub: [TaskManagementApp](https://github.com/IncipientusAB/TaskManagementApp)
+2. Click the "Fork" button at the top right of the page.
+3. Choose your GitHub account to fork the repository.
+
 ## How to run the application
 - Backend: Open terminal and navigate to the directory of TaskManagementApi folder then enter: dotnet run TaskManagementApi.csproj
 - Frontend: Open terminal and navigate to the directory of TaskManagementApp folder then enter: npm install . After all node modules have been installed enter: ng serve
