@@ -24,8 +24,8 @@ A web application for simple task management.
 - Frontend: Angular 17
 
 ## Languages
-- Backend: TypeScript
-- Frontend: C#
+- Frontend: TypeScript
+- Backend: C#
 
 ## Database
 - Sqlite
