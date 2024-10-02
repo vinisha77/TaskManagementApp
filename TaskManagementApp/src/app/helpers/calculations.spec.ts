@@ -10,11 +10,6 @@ describe('Calculations', () =>
 
     });
 
-    it('should calculate the percentage standard deviation of a two-dimensional array', () =>
-    {
-        // TODO: Implement test
-
-    });
 
     it('should calculate the zero crossing percentage of an array', () =>
     {
@@ -29,18 +24,6 @@ describe('Calculations', () =>
     });
 
     it('should get the most frequent value at each subarray', () =>
-    {
-        // TODO: Implement test
-
-    });
-
-    it('should get the average value of the highest percentage of each subarray', () =>
-    {
-        // TODO: Implement test
-
-    });
-
-    it('should get the average value of each subarray after removing the outliers', () =>
     {
         // TODO: Implement test
 
