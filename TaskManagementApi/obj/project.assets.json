@@ -450,7 +450,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.8": {
+      "Microsoft.NET.ILLink.Tasks/8.0.12": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -1198,7 +1198,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.8": {
+      "Microsoft.NET.ILLink.Tasks/8.0.12": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -2233,10 +2233,10 @@
         "microsoft.net.http.headers.nuspec"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.8": {
-      "sha512": "P8wR6MUWwYXIjPJuBaZgo5zlI/GWI6QEAo6NyVIbPefa9CCkohYu7dP2rD/mrqnjEqfRHyl+h9VZrDoGpELqYg==",
+    "Microsoft.NET.ILLink.Tasks/8.0.12": {
+      "sha512": "FV4HnQ3JI15PHnJ5PGTbz+rYvrih42oLi/7UMIshNwCwUZhTq13UzrggtXk4ygrcMcN+4jsS6hhshx2p/Zd0ig==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.8",
+      "path": "microsoft.net.illink.tasks/8.0.12",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -2250,7 +2250,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+        "microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -2693,33 +2693,30 @@
       "Microsoft.AspNetCore.Cors >= 2.1.1",
       "Microsoft.EntityFrameworkCore.InMemory >= 8.0.1",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.2",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.8",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.12",
       "Newtonsoft.Json >= 13.0.3",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TommyAndersson\\.nuget\\packages\\": {}
+    "C:\\Users\\AA100518\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\TaskManagementApi.csproj",
+      "projectUniqueName": "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\TaskManagementApi.csproj",
       "projectName": "Incipientus_TM",
-      "projectPath": "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\TaskManagementApi.csproj",
-      "packagesPath": "C:\\Users\\TommyAndersson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\obj\\",
+      "projectPath": "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\TaskManagementApi.csproj",
+      "packagesPath": "C:\\Users\\AA100518\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TommyAndersson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\AA100518\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2762,7 +2759,7 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.8, )",
+            "version": "[8.0.12, )",
             "autoReferenced": true
           },
           "Newtonsoft.Json": {
@@ -2793,7 +2790,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

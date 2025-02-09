@@ -43,6 +43,7 @@
     "@types/node": "^18.18.0",
     "@types/plotly.js": "^2.29.1",
     "@types/plotly.js-dist-min": "^2.3.4",
+    "chromedriver": "^133.0.0",
     "cypress": "^13.15.0",
     "jasmine": "^5.1.0",
     "jasmine-core": "~5.1.0",

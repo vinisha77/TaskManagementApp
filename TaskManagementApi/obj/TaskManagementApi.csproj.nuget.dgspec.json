@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\TaskManagementApi.csproj": {}
+    "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\TaskManagementApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\TaskManagementApi.csproj": {
+    "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\TaskManagementApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\TaskManagementApi.csproj",
+        "projectUniqueName": "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\TaskManagementApi.csproj",
         "projectName": "Incipientus_TM",
-        "projectPath": "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\TaskManagementApi.csproj",
-        "packagesPath": "C:\\Users\\TommyAndersson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TommyAndersson\\Downloads\\TaskManagementApp-main\\TaskManagementApi\\obj\\",
+        "projectPath": "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\TaskManagementApi.csproj",
+        "packagesPath": "C:\\Users\\AA100518\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AA100518\\Incipientus\\TaskManagementApp\\TaskManagementApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TommyAndersson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\AA100518\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +62,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )",
+              "version": "[8.0.12, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
@@ -96,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
